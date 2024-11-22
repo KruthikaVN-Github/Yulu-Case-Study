@@ -1,4 +1,3 @@
-# Yulu-Case-Study
 # Yulu - Hypothesis Testing
 
 **About Yulu**  
